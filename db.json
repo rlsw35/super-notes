@@ -1,0 +1,74 @@
+{
+  "notes": [
+    {
+      "date": "Mon Oct 25 2021 12:56:21 GMT+0800 (Malaysia Time)",
+      "title": "Today is a good day",
+      "content": "Lorem ipsum\n",
+      "category": "Important",
+      "id": 0.8489474791097807
+    },
+    {
+      "date": "Mon Oct 25 2021 12:56:28 GMT+0800 (Malaysia Time)",
+      "title": "Today is a badday",
+      "content": "Lorem ipsum\n",
+      "category": "Journal",
+      "id": 0.7154164696504224
+    },
+    {
+      "date": "Mon Oct 25 2021 12:57:43 GMT+0800 (Malaysia Time)",
+      "title": "",
+      "content": "",
+      "category": "Important",
+      "id": 0.2942693953735369
+    },
+    {
+      "date": "Mon Oct 25 2021 12:57:48 GMT+0800 (Malaysia Time)",
+      "title": "",
+      "content": "",
+      "category": "Journal",
+      "id": 0.5131887235282376
+    },
+    {
+      "date": "Mon Oct 25 2021 12:57:50 GMT+0800 (Malaysia Time)",
+      "title": "",
+      "content": "",
+      "category": "To-Do",
+      "id": 0.5798526239728362
+    },
+    {
+      "date": "Mon Oct 25 2021 13:27:54 GMT+0800 (Malaysia Time)",
+      "title": "",
+      "content": "",
+      "category": "Important",
+      "id": 0.3779047098346727
+    },
+    {
+      "date": "Mon Oct 25 2021 13:28:04 GMT+0800 (Malaysia Time)",
+      "title": "",
+      "content": "",
+      "category": "Important",
+      "id": 0.5134576901782827
+    },
+    {
+      "date": "Mon Oct 25 2021 13:59:14 GMT+0800 (Malaysia Time)",
+      "title": "",
+      "content": "",
+      "category": "Important",
+      "id": 0.734299742916346
+    },
+    {
+      "date": "Mon Oct 25 2021 13:59:14 GMT+0800 (Malaysia Time)",
+      "title": "",
+      "content": "",
+      "category": "Important",
+      "id": 0.41567278446921974
+    },
+    {
+      "date": "Mon Oct 25 2021 13:59:16 GMT+0800 (Malaysia Time)",
+      "title": "",
+      "content": "",
+      "category": "Important",
+      "id": 0.9383142107537288
+    }
+  ]
+}
